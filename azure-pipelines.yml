@@ -10,7 +10,7 @@ resources:
 
 variables:
   # Container registry service connection established during pipeline creation
-  dockerRegistryServiceConnection: '189b8aef-cb7c-4e25-8985-47c551ecc859'
+  dockerRegistryServiceConnection: '453194c6-9b5a-46f8-bf6e-6b5a4133ee3a'
   imageRepository: 'ycetindildockertetris'
   containerRegistry: 'yasinhub.azurecr.io'
   dockerfilePath: '$(Build.SourcesDirectory)/Dockerfile'
